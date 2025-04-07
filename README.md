@@ -28,7 +28,7 @@ A simple yet functional social networking backend built with **Django** and **Dj
 | Backend      | Django, Django REST Framework |
 | Auth         | JWT (via `djangorestframework-simplejwt`) |
 | Database     | MySQL                    |
-| Docs / UI    | Swagger (via `drf-yasg`) |
+| Docs / UI    | Swagger (via `drf-spectacular`) |
 | Dev Tools    | pip, virtualenv          |
 
 ---
